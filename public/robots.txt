@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dog.gggpick.com/sitemap.xml
